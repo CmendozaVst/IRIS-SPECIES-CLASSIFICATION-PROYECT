@@ -69,24 +69,6 @@ Pestana 4 - Prediccion en Tiempo Real
 Pestana 5 - Importancia de Variables
    Grafica de barras con la contribucion de cada variable al modelo.
 
----
-
-## Como ejecutar el proyecto
-
-Paso 1 - Clonar el repositorio o descargar los archivos.
-
-Paso 2 - Instalar las dependencias:
-
-   pip install -r requirements.txt
-
-Paso 3 - Ejecutar la aplicacion:
-
-   streamlit run Proyect.py
-
-Paso 4 - Abrir el navegador en la URL que aparece en la terminal.
-   Normalmente es: http://localhost:8501
-
----
 
 ## Estructura del repositorio
 
