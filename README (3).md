@@ -8,8 +8,8 @@ Profesor: Jose Escorcia-Gutierrez, Ph.D.
 
 ## Integrantes del grupo
 
-- Nombre 1
-- Nombre 2
+- Nombre CAMILO ANDRES MENDOZA GOENAGA 
+- Nombre IVAN CUENTAS OSPINO 
 
 ---
 
